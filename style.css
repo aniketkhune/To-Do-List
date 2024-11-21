@@ -81,7 +81,7 @@ ul li::before
     background-position: center;
     top: 12px;
     left:8px;
-    background-image: url(images/unchecked.png);
+    background-image: url(/unchecked.png);
 
 }
 
